@@ -1,0 +1,13 @@
+Sigla para HyperText Markup Language — Linguagem de Marcação de Hipertexto —, 
+o HTML é o componente base da web. 
+Isso quer dizer que ele permite a construção de websites e a inserção de novos conteúdos, 
+como imagens e vídeos, por meio dos hipertextos.
+
+Os hipertextos são a junção de vários elementos — palavras, vídeos e conteúdos —,
+ que, quando conectados, estabelecem uma rede de dados que permite a comunicação, 
+o armazenamento e o compartilhamento de informações.
+
+Por exemplo, ao visitar um website, você encontra diversas informações com formatações diferentes, 
+como parágrafos, bullets e fontes distintas. Pois então, essa estruturação é realizada por meio do HTML.
+
+O html você faz a estrutura e com o css você estiliza, deixando o visual mais agradavél. 
